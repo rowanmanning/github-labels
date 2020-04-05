@@ -3,7 +3,7 @@
 // Shared colour values
 const colors = {
 	brightRed: 'ee3333',
-	darkRed: 'aa0000',
+	darkRed: 'ee6666',
 	brightGreen: '33cc33',
 	darkGreen: '449944',
 	lightGrey: 'cccccc',
