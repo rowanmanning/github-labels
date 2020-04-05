@@ -1,0 +1,30 @@
+{
+  "name": "@rowanmanning/github-labels",
+  "version": "0.0.0",
+  "private": true,
+  "description": "GitHub Action to sync a repo's issue labels with my standard set",
+  "keywords": [],
+  "author": "Rowan Manning (https://rowanmanning.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowanmanning/github-labels.git"
+  },
+  "homepage": "https://github.com/rowanmanning/github-labels",
+  "bugs": "https://github.com/rowanmanning/github-labels/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6.9.0"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "github-label-sync": "^1.4.2"
+  },
+  "devDependencies": {
+    "@rowanmanning/eslint-config": "^2.1.0",
+    "@rowanmanning/make": "^2.1.0",
+    "eslint": "^6.8.0"
+  },
+  "main": "./index.js",
+  "scripts": {}
+}
