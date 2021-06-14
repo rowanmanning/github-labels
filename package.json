@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.2.3",
-    "github-label-sync": "^1.4.2"
+    "github-label-sync": "^2.0.1"
   },
   "devDependencies": {
     "@rowanmanning/eslint-config": "^2.1.0",
